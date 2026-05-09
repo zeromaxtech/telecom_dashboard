@@ -68,14 +68,11 @@ telecom_dashboard/
 - [ ] Time-series trend analysis
 - [ ] Predictive models
 
-## 👤 Author
-
-Nike (Data Engineer)
 
 ## 📝 License
 
 Open source - Educational purpose
 
----
+
 
 **Built with ❤️ for learning data engineering**
